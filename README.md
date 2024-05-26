@@ -1,1 +1,1 @@
-# paint-github-8e322
+github-8e322
